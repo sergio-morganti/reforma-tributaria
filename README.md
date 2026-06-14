@@ -2,13 +2,6 @@
 
 Suite de skills para operacionalizar a Reforma Tributária do Consumo brasileira (EC 132/2023, LC 214/2025, LC 227/2026).
 
-## Instalação
-
-```
-/plugin marketplace add SEU-USUARIO/reforma-tributaria
-/plugin install reforma-tributaria@reforma-tributaria-marketplace
-```
-
 ## Skills
 
 | Skill | O que faz |
