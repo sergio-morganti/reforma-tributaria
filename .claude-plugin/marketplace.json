@@ -1,0 +1,13 @@
+{
+  "name": "reforma-tributaria-marketplace",
+  "owner": {
+    "name": "Sergio Morganti"
+  },
+  "plugins": [
+    {
+      "name": "reforma-tributaria",
+      "source": "./reforma-tributaria",
+      "description": "Suite de skills para a Reforma Tributária do Consumo (EC 132/2023, IBS/CBS/IS): monitoramento de normas, validação de NF-e e estimativa de impacto a partir de SPED."
+    }
+  ]
+}
