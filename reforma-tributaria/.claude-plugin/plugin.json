@@ -1,0 +1,9 @@
+{
+  "name": "reforma-tributaria",
+  "version": "0.1.0",
+  "description": "Suite completa para a Reforma Tributária do Consumo brasileira (EC 132/2023, IBS/CBS/IS): monitoramento diário de normas com resumo em PDF, validação de NF-e (campos, cálculos e retenções) e estimativa de impacto em preço, margem, custos e créditos a partir de arquivos SPED.",
+  "author": {
+    "name": "Sergio Morganti"
+  },
+  "keywords": ["reforma tributaria", "IBS", "CBS", "imposto seletivo", "NF-e", "SPED", "tax"]
+}
